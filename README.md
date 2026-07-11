@@ -25,7 +25,7 @@ This Power BI dashboard analyzes sales performance and provides insights into re
 
 ### Overviewexecutive summary
 
-![overviewexecutive_summary.png](Images/overviewexecutive_summary.png.png)
+![overviewexecutive_summary](Images/overviewexecutive_summary.png)
 
 ---
 
