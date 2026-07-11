@@ -55,4 +55,4 @@ This Power BI dashboard analyzes sales performance and provides insights into re
 
 ## 👩‍💻 Author
 
-**Kowsalya**
+**Kowsalya.R**
