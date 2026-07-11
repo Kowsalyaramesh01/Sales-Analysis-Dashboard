@@ -25,31 +25,31 @@ This Power BI dashboard analyzes sales performance and provides insights into re
 
 ### Overviewexecutive summary
 
-![Overviewexecutive summary](Images/Overviewexecutive summary.png)
+![Overviewexecutive summary](Images/Overviewexecutive_summary.png)
 
 ---
 
 ### REVENUE & Profit Analysis
 
-![REVENUE & Profit Analysis](Images/REVENUE & Profit Analysis.png)
+![REVENUE & Profit Analysis](Images/REVENUE_&_Profit_Analysis.png)
 
 ---
 
 ### Customer Insights
 
-![Customer Insights](Images/Customer Insights.png)
+![Customer Insights](Images/Customer_Insights.png)
 
 ---
 
 ### Product Performance
 
-![Product Performance](Images/Product Performance.png)
+![Product Performance](Images/Product_Performance.png)
 
 ---
 
 ### Territory Analysis
 
-![Territory Analysis](Images/Territory Analysis.png)
+![Territory Analysis](Images/Territory_Analysis.png)
 
 ---
 
