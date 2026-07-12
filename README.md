@@ -81,6 +81,12 @@ This dashboard uses the following datasets:
 
 ---
 
+## 🎯 Business Problem
+
+Businesses often have large amounts of sales data but struggle to identify trends, top-performing products, profitable regions, and customer purchasing patterns. This dashboard helps decision-makers monitor business performance and make data-driven decisions.
+
+---
+
 ## 📈 Key Insights
 
 - Analyzed sales trends across multiple years.
@@ -90,7 +96,19 @@ This dashboard uses the following datasets:
 - Evaluated regional sales performance.
 
 ---
-  
+
+## 💼 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Power Query
+- DAX Measures
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+
+---
+
 ## 👩‍💻 Author
 
 **Kowsalya.R**
