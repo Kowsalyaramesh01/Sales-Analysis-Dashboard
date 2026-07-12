@@ -15,6 +15,21 @@ This Power BI dashboard analyzes sales performance and provides insights into re
 
 ---
 
+## 📂 Dataset
+
+This dashboard uses the following datasets:
+
+- Calendar.csv
+- Customers.csv
+- Products.csv
+- Product-Categories.csv
+- Product-Subcategories.csv
+- Returns.csv
+- Sales-2015.csv
+- Sales-2016.csv
+- Sales-2017.csv
+- Territories.csv
+
 ## 📷 Dashboard Screenshots
 
 ### Cover Page
@@ -53,6 +68,25 @@ This Power BI dashboard analyzes sales performance and provides insights into re
 
 ---
 
+## ✨ Dashboard Features
+
+- Executive Summary
+- Revenue & Profit Analysis
+- Customer Insights
+- Product Performance
+- Territory Analysis
+- Interactive slicers and filters
+
+## 📈 Key Insights
+
+- Analyzed sales trends across multiple years.
+- Compared revenue and profit by product and region.
+- Identified top-performing products.
+- Studied customer purchasing behavior.
+- Evaluated regional sales performance.
+  
 ## 👩‍💻 Author
 
 **Kowsalya.R**
+
+Aspiring Data Analyst
