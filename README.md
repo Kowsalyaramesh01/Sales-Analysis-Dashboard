@@ -30,6 +30,8 @@ This dashboard uses the following datasets:
 - Sales-2017.csv
 - Territories.csv
 
+---
+
 ## 📷 Dashboard Screenshots
 
 ### Cover Page
@@ -77,6 +79,8 @@ This dashboard uses the following datasets:
 - Territory Analysis
 - Interactive slicers and filters
 
+---
+
 ## 📈 Key Insights
 
 - Analyzed sales trends across multiple years.
@@ -84,6 +88,8 @@ This dashboard uses the following datasets:
 - Identified top-performing products.
 - Studied customer purchasing behavior.
 - Evaluated regional sales performance.
+
+---
   
 ## 👩‍💻 Author
 
